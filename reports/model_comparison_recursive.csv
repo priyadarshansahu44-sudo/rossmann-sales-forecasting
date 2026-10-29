@@ -1,0 +1,4 @@
+Model,MAE,RMSE
+Random Forest,300787.2,438508.2
+Linear Regression,554402.7,712369.7
+Naive (same day last week),2017777.4,2581669.1
